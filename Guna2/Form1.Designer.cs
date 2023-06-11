@@ -41,8 +41,7 @@
 			this.gunaGradientFries = new Guna.UI.WinForms.GunaGradientTileButton();
 			this.gunaGradientBurgers = new Guna.UI.WinForms.GunaGradientTileButton();
 			this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-			this.gunaGradient2Panel1 = new Guna.UI.WinForms.GunaGradient2Panel();
-			this.gunaAdvenceTileButton4 = new Guna.UI.WinForms.GunaAdvenceTileButton();
+			this.DrinksSortPanel = new Guna.UI.WinForms.GunaGradient2Panel();
 			this.gunaAdvenceTileButton2 = new Guna.UI.WinForms.GunaAdvenceTileButton();
 			this.gunaAdvenceTileButton3 = new Guna.UI.WinForms.GunaAdvenceTileButton();
 			this.gunaAdvenceTileButton1 = new Guna.UI.WinForms.GunaAdvenceTileButton();
@@ -84,17 +83,70 @@
 			this.gunaShadowPanel9 = new Guna.UI.WinForms.GunaShadowPanel();
 			this.gunaLabel18 = new Guna.UI.WinForms.GunaLabel();
 			this.gunaPanel7 = new Guna.UI.WinForms.GunaPanel();
-			this.gunaGradient2Panel7 = new Guna.UI.WinForms.GunaGradient2Panel();
-			this.gunaLabel13 = new Guna.UI.WinForms.GunaLabel();
 			this.gunaShadowPanel7 = new Guna.UI.WinForms.GunaShadowPanel();
 			this.gunaLabel14 = new Guna.UI.WinForms.GunaLabel();
 			this.gunaPanel8 = new Guna.UI.WinForms.GunaPanel();
-			this.gunaGradient2Panel8 = new Guna.UI.WinForms.GunaGradient2Panel();
-			this.gunaLabel15 = new Guna.UI.WinForms.GunaLabel();
 			this.gunaShadowPanel8 = new Guna.UI.WinForms.GunaShadowPanel();
 			this.gunaLabel16 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaPanel10 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaGradient2Panel10 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel19 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaShadowPanel10 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaLabel20 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaGradient2Panel11 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel21 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaPanel11 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaGradient2Panel8 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel15 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaShadowPanel11 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaLabel22 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaPanel12 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaShadowPanel12 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaGradient2Panel13 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel25 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaGradient2Panel7 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel13 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaLabel23 = new Guna.UI.WinForms.GunaLabel();
+			this.BurgersSortPanel = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaAdvenceTileButton5 = new Guna.UI.WinForms.GunaAdvenceTileButton();
+			this.gunaAdvenceTileButton6 = new Guna.UI.WinForms.GunaAdvenceTileButton();
+			this.FriesSortPanel = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaAdvenceTileButton4 = new Guna.UI.WinForms.GunaAdvenceTileButton();
+			this.gunaAdvenceTileButton7 = new Guna.UI.WinForms.GunaAdvenceTileButton();
+			this.gunaAdvenceTileButton8 = new Guna.UI.WinForms.GunaAdvenceTileButton();
+			this.DrinksPanel = new System.Windows.Forms.FlowLayoutPanel();
+			this.gunaPanel13 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaGradient2Panel1 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel24 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaShadowPanel13 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaLabel26 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaPanel14 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaGradient2Panel12 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel27 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaShadowPanel14 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaLabel28 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaPanel15 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaGradient2Panel14 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel29 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaShadowPanel15 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaLabel30 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaPanel16 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaGradient2Panel15 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel31 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaShadowPanel16 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaLabel32 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaPanel17 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaGradient2Panel16 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel33 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaShadowPanel17 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaLabel34 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaPanel18 = new Guna.UI.WinForms.GunaPanel();
+			this.gunaShadowPanel18 = new Guna.UI.WinForms.GunaShadowPanel();
+			this.gunaLabel35 = new Guna.UI.WinForms.GunaLabel();
+			this.gunaGradient2Panel17 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel36 = new Guna.UI.WinForms.GunaLabel();
 			this.gunaPanel1.SuspendLayout();
-			this.gunaGradient2Panel1.SuspendLayout();
+			this.DrinksSortPanel.SuspendLayout();
 			this.gunaShadowPanel1.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.gunaPictureBox1)).BeginInit();
 			this.BurgerPanel.SuspendLayout();
@@ -118,11 +170,41 @@
 			this.gunaGradient2Panel9.SuspendLayout();
 			this.gunaShadowPanel9.SuspendLayout();
 			this.gunaPanel7.SuspendLayout();
-			this.gunaGradient2Panel7.SuspendLayout();
 			this.gunaShadowPanel7.SuspendLayout();
 			this.gunaPanel8.SuspendLayout();
-			this.gunaGradient2Panel8.SuspendLayout();
 			this.gunaShadowPanel8.SuspendLayout();
+			this.gunaPanel10.SuspendLayout();
+			this.gunaGradient2Panel10.SuspendLayout();
+			this.gunaShadowPanel10.SuspendLayout();
+			this.gunaGradient2Panel11.SuspendLayout();
+			this.gunaPanel11.SuspendLayout();
+			this.gunaGradient2Panel8.SuspendLayout();
+			this.gunaShadowPanel11.SuspendLayout();
+			this.gunaPanel12.SuspendLayout();
+			this.gunaShadowPanel12.SuspendLayout();
+			this.gunaGradient2Panel13.SuspendLayout();
+			this.gunaGradient2Panel7.SuspendLayout();
+			this.BurgersSortPanel.SuspendLayout();
+			this.FriesSortPanel.SuspendLayout();
+			this.DrinksPanel.SuspendLayout();
+			this.gunaPanel13.SuspendLayout();
+			this.gunaGradient2Panel1.SuspendLayout();
+			this.gunaShadowPanel13.SuspendLayout();
+			this.gunaPanel14.SuspendLayout();
+			this.gunaGradient2Panel12.SuspendLayout();
+			this.gunaShadowPanel14.SuspendLayout();
+			this.gunaPanel15.SuspendLayout();
+			this.gunaGradient2Panel14.SuspendLayout();
+			this.gunaShadowPanel15.SuspendLayout();
+			this.gunaPanel16.SuspendLayout();
+			this.gunaGradient2Panel15.SuspendLayout();
+			this.gunaShadowPanel16.SuspendLayout();
+			this.gunaPanel17.SuspendLayout();
+			this.gunaGradient2Panel16.SuspendLayout();
+			this.gunaShadowPanel17.SuspendLayout();
+			this.gunaPanel18.SuspendLayout();
+			this.gunaShadowPanel18.SuspendLayout();
+			this.gunaGradient2Panel17.SuspendLayout();
 			this.SuspendLayout();
 			// 
 			// gunaDragControl1
@@ -247,6 +329,7 @@
 			this.gunaGradientPackaging.Size = new System.Drawing.Size(80, 80);
 			this.gunaGradientPackaging.TabIndex = 2;
 			this.gunaGradientPackaging.Text = "Balenie";
+			this.gunaGradientPackaging.Click += new System.EventHandler(this.gunaGradientPackaging_Click);
 			// 
 			// gunaGradientDrinks
 			// 
@@ -352,52 +435,20 @@
 			this.tableLayoutPanel1.Size = new System.Drawing.Size(135, 287);
 			this.tableLayoutPanel1.TabIndex = 7;
 			// 
-			// gunaGradient2Panel1
+			// DrinksSortPanel
 			// 
-			this.gunaGradient2Panel1.BackColor = System.Drawing.Color.Transparent;
-			this.gunaGradient2Panel1.Controls.Add(this.gunaAdvenceTileButton4);
-			this.gunaGradient2Panel1.Controls.Add(this.gunaAdvenceTileButton2);
-			this.gunaGradient2Panel1.Controls.Add(this.gunaAdvenceTileButton3);
-			this.gunaGradient2Panel1.Controls.Add(this.gunaAdvenceTileButton1);
-			this.gunaGradient2Panel1.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
-			this.gunaGradient2Panel1.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
-			this.gunaGradient2Panel1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.Vertical;
-			this.gunaGradient2Panel1.Location = new System.Drawing.Point(100, 32);
-			this.gunaGradient2Panel1.Name = "gunaGradient2Panel1";
-			this.gunaGradient2Panel1.Radius = 6;
-			this.gunaGradient2Panel1.Size = new System.Drawing.Size(105, 371);
-			this.gunaGradient2Panel1.TabIndex = 8;
-			// 
-			// gunaAdvenceTileButton4
-			// 
-			this.gunaAdvenceTileButton4.Animated = true;
-			this.gunaAdvenceTileButton4.AnimationHoverSpeed = 0.07F;
-			this.gunaAdvenceTileButton4.AnimationSpeed = 0.03F;
-			this.gunaAdvenceTileButton4.BaseColor = System.Drawing.Color.Transparent;
-			this.gunaAdvenceTileButton4.BorderColor = System.Drawing.Color.Black;
-			this.gunaAdvenceTileButton4.CheckedBaseColor = System.Drawing.Color.Gray;
-			this.gunaAdvenceTileButton4.CheckedBorderColor = System.Drawing.Color.Black;
-			this.gunaAdvenceTileButton4.CheckedForeColor = System.Drawing.Color.White;
-			this.gunaAdvenceTileButton4.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton4.CheckedImage")));
-			this.gunaAdvenceTileButton4.CheckedLineColor = System.Drawing.Color.DimGray;
-			this.gunaAdvenceTileButton4.DialogResult = System.Windows.Forms.DialogResult.None;
-			this.gunaAdvenceTileButton4.FocusedColor = System.Drawing.Color.Empty;
-			this.gunaAdvenceTileButton4.Font = new System.Drawing.Font("Segoe UI Light", 12F);
-			this.gunaAdvenceTileButton4.ForeColor = System.Drawing.Color.White;
-			this.gunaAdvenceTileButton4.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton4.Image")));
-			this.gunaAdvenceTileButton4.ImageSize = new System.Drawing.Size(32, 32);
-			this.gunaAdvenceTileButton4.LineColor = System.Drawing.Color.Transparent;
-			this.gunaAdvenceTileButton4.Location = new System.Drawing.Point(20, 288);
-			this.gunaAdvenceTileButton4.Name = "gunaAdvenceTileButton4";
-			this.gunaAdvenceTileButton4.OnHoverBaseColor = System.Drawing.Color.Transparent;
-			this.gunaAdvenceTileButton4.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
-			this.gunaAdvenceTileButton4.OnHoverForeColor = System.Drawing.Color.White;
-			this.gunaAdvenceTileButton4.OnHoverImage = null;
-			this.gunaAdvenceTileButton4.OnHoverLineColor = System.Drawing.Color.Transparent;
-			this.gunaAdvenceTileButton4.OnPressedColor = System.Drawing.Color.Black;
-			this.gunaAdvenceTileButton4.Size = new System.Drawing.Size(68, 68);
-			this.gunaAdvenceTileButton4.TabIndex = 11;
-			this.gunaAdvenceTileButton4.Text = "idk placeholder";
+			this.DrinksSortPanel.BackColor = System.Drawing.Color.Transparent;
+			this.DrinksSortPanel.Controls.Add(this.gunaAdvenceTileButton2);
+			this.DrinksSortPanel.Controls.Add(this.gunaAdvenceTileButton3);
+			this.DrinksSortPanel.Controls.Add(this.gunaAdvenceTileButton1);
+			this.DrinksSortPanel.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.DrinksSortPanel.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.DrinksSortPanel.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.Vertical;
+			this.DrinksSortPanel.Location = new System.Drawing.Point(103, 32);
+			this.DrinksSortPanel.Name = "DrinksSortPanel";
+			this.DrinksSortPanel.Radius = 6;
+			this.DrinksSortPanel.Size = new System.Drawing.Size(110, 285);
+			this.DrinksSortPanel.TabIndex = 8;
 			// 
 			// gunaAdvenceTileButton2
 			// 
@@ -413,12 +464,12 @@
 			this.gunaAdvenceTileButton2.CheckedLineColor = System.Drawing.Color.DimGray;
 			this.gunaAdvenceTileButton2.DialogResult = System.Windows.Forms.DialogResult.None;
 			this.gunaAdvenceTileButton2.FocusedColor = System.Drawing.Color.Empty;
-			this.gunaAdvenceTileButton2.Font = new System.Drawing.Font("Segoe UI Light", 12F);
+			this.gunaAdvenceTileButton2.Font = new System.Drawing.Font("Segoe UI Light", 9F);
 			this.gunaAdvenceTileButton2.ForeColor = System.Drawing.Color.White;
 			this.gunaAdvenceTileButton2.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton2.Image")));
 			this.gunaAdvenceTileButton2.ImageSize = new System.Drawing.Size(32, 32);
 			this.gunaAdvenceTileButton2.LineColor = System.Drawing.Color.Transparent;
-			this.gunaAdvenceTileButton2.Location = new System.Drawing.Point(20, 197);
+			this.gunaAdvenceTileButton2.Location = new System.Drawing.Point(5, 191);
 			this.gunaAdvenceTileButton2.Name = "gunaAdvenceTileButton2";
 			this.gunaAdvenceTileButton2.OnHoverBaseColor = System.Drawing.Color.Transparent;
 			this.gunaAdvenceTileButton2.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
@@ -426,9 +477,9 @@
 			this.gunaAdvenceTileButton2.OnHoverImage = null;
 			this.gunaAdvenceTileButton2.OnHoverLineColor = System.Drawing.Color.Transparent;
 			this.gunaAdvenceTileButton2.OnPressedColor = System.Drawing.Color.Black;
-			this.gunaAdvenceTileButton2.Size = new System.Drawing.Size(68, 68);
+			this.gunaAdvenceTileButton2.Size = new System.Drawing.Size(100, 90);
 			this.gunaAdvenceTileButton2.TabIndex = 11;
-			this.gunaAdvenceTileButton2.Text = "Kurací";
+			this.gunaAdvenceTileButton2.Text = "Teplé";
 			this.gunaAdvenceTileButton2.Click += new System.EventHandler(this.gunaAdvenceTileButton2_Click);
 			// 
 			// gunaAdvenceTileButton3
@@ -445,12 +496,12 @@
 			this.gunaAdvenceTileButton3.CheckedLineColor = System.Drawing.Color.DimGray;
 			this.gunaAdvenceTileButton3.DialogResult = System.Windows.Forms.DialogResult.None;
 			this.gunaAdvenceTileButton3.FocusedColor = System.Drawing.Color.Empty;
-			this.gunaAdvenceTileButton3.Font = new System.Drawing.Font("Segoe UI Light", 12F);
+			this.gunaAdvenceTileButton3.Font = new System.Drawing.Font("Segoe UI Light", 9F);
 			this.gunaAdvenceTileButton3.ForeColor = System.Drawing.Color.White;
 			this.gunaAdvenceTileButton3.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton3.Image")));
 			this.gunaAdvenceTileButton3.ImageSize = new System.Drawing.Size(32, 32);
 			this.gunaAdvenceTileButton3.LineColor = System.Drawing.Color.Transparent;
-			this.gunaAdvenceTileButton3.Location = new System.Drawing.Point(20, 106);
+			this.gunaAdvenceTileButton3.Location = new System.Drawing.Point(5, 97);
 			this.gunaAdvenceTileButton3.Name = "gunaAdvenceTileButton3";
 			this.gunaAdvenceTileButton3.OnHoverBaseColor = System.Drawing.Color.Transparent;
 			this.gunaAdvenceTileButton3.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
@@ -458,9 +509,9 @@
 			this.gunaAdvenceTileButton3.OnHoverImage = null;
 			this.gunaAdvenceTileButton3.OnHoverLineColor = System.Drawing.Color.Transparent;
 			this.gunaAdvenceTileButton3.OnPressedColor = System.Drawing.Color.Black;
-			this.gunaAdvenceTileButton3.Size = new System.Drawing.Size(68, 68);
+			this.gunaAdvenceTileButton3.Size = new System.Drawing.Size(100, 90);
 			this.gunaAdvenceTileButton3.TabIndex = 12;
-			this.gunaAdvenceTileButton3.Text = "Hovädzí";
+			this.gunaAdvenceTileButton3.Text = "Alkoholické";
 			// 
 			// gunaAdvenceTileButton1
 			// 
@@ -476,12 +527,12 @@
 			this.gunaAdvenceTileButton1.CheckedLineColor = System.Drawing.Color.DimGray;
 			this.gunaAdvenceTileButton1.DialogResult = System.Windows.Forms.DialogResult.None;
 			this.gunaAdvenceTileButton1.FocusedColor = System.Drawing.Color.Empty;
-			this.gunaAdvenceTileButton1.Font = new System.Drawing.Font("Segoe UI Light", 12F);
+			this.gunaAdvenceTileButton1.Font = new System.Drawing.Font("Segoe UI Light", 9F);
 			this.gunaAdvenceTileButton1.ForeColor = System.Drawing.Color.White;
 			this.gunaAdvenceTileButton1.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton1.Image")));
 			this.gunaAdvenceTileButton1.ImageSize = new System.Drawing.Size(32, 32);
 			this.gunaAdvenceTileButton1.LineColor = System.Drawing.Color.Transparent;
-			this.gunaAdvenceTileButton1.Location = new System.Drawing.Point(20, 15);
+			this.gunaAdvenceTileButton1.Location = new System.Drawing.Point(5, 3);
 			this.gunaAdvenceTileButton1.Name = "gunaAdvenceTileButton1";
 			this.gunaAdvenceTileButton1.OnHoverBaseColor = System.Drawing.Color.Transparent;
 			this.gunaAdvenceTileButton1.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
@@ -489,9 +540,9 @@
 			this.gunaAdvenceTileButton1.OnHoverImage = null;
 			this.gunaAdvenceTileButton1.OnHoverLineColor = System.Drawing.Color.Transparent;
 			this.gunaAdvenceTileButton1.OnPressedColor = System.Drawing.Color.Black;
-			this.gunaAdvenceTileButton1.Size = new System.Drawing.Size(68, 68);
+			this.gunaAdvenceTileButton1.Size = new System.Drawing.Size(100, 90);
 			this.gunaAdvenceTileButton1.TabIndex = 10;
-			this.gunaAdvenceTileButton1.Text = "Bravčový";
+			this.gunaAdvenceTileButton1.Text = "Nealkoholické";
 			// 
 			// gunaShadowPanel1
 			// 
@@ -851,9 +902,12 @@
 			// 
 			// FriesPanel
 			// 
+			this.FriesPanel.Controls.Add(this.gunaPanel10);
 			this.FriesPanel.Controls.Add(this.gunaPanel9);
 			this.FriesPanel.Controls.Add(this.gunaPanel8);
+			this.FriesPanel.Controls.Add(this.gunaPanel11);
 			this.FriesPanel.Controls.Add(this.gunaPanel7);
+			this.FriesPanel.Controls.Add(this.gunaPanel12);
 			this.FriesPanel.Location = new System.Drawing.Point(229, 188);
 			this.FriesPanel.Name = "FriesPanel";
 			this.FriesPanel.Size = new System.Drawing.Size(625, 406);
@@ -865,7 +919,7 @@
 			this.gunaPanel9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
 			this.gunaPanel9.Controls.Add(this.gunaGradient2Panel9);
 			this.gunaPanel9.Controls.Add(this.gunaShadowPanel9);
-			this.gunaPanel9.Location = new System.Drawing.Point(3, 3);
+			this.gunaPanel9.Location = new System.Drawing.Point(159, 3);
 			this.gunaPanel9.Name = "gunaPanel9";
 			this.gunaPanel9.Size = new System.Drawing.Size(150, 150);
 			this.gunaPanel9.TabIndex = 14;
@@ -879,7 +933,7 @@
 			this.gunaGradient2Panel9.Location = new System.Drawing.Point(0, -1);
 			this.gunaGradient2Panel9.Name = "gunaGradient2Panel9";
 			this.gunaGradient2Panel9.Radius = 4;
-			this.gunaGradient2Panel9.Size = new System.Drawing.Size(54, 34);
+			this.gunaGradient2Panel9.Size = new System.Drawing.Size(95, 34);
 			this.gunaGradient2Panel9.TabIndex = 13;
 			// 
 			// gunaLabel17
@@ -887,11 +941,12 @@
 			this.gunaLabel17.AutoSize = true;
 			this.gunaLabel17.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
 			this.gunaLabel17.ForeColor = System.Drawing.Color.White;
-			this.gunaLabel17.Location = new System.Drawing.Point(4, 7);
+			this.gunaLabel17.Location = new System.Drawing.Point(2, 7);
 			this.gunaLabel17.Name = "gunaLabel17";
-			this.gunaLabel17.Size = new System.Drawing.Size(45, 20);
+			this.gunaLabel17.Size = new System.Drawing.Size(92, 20);
 			this.gunaLabel17.TabIndex = 0;
-			this.gunaLabel17.Text = "2.50€";
+			this.gunaLabel17.Text = "2.20€ (200g)";
+			this.gunaLabel17.Click += new System.EventHandler(this.gunaLabel17_Click);
 			// 
 			// gunaShadowPanel9
 			// 
@@ -909,46 +964,23 @@
 			// 
 			this.gunaLabel18.AutoSize = true;
 			this.gunaLabel18.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-			this.gunaLabel18.Location = new System.Drawing.Point(35, 11);
+			this.gunaLabel18.Location = new System.Drawing.Point(31, 11);
 			this.gunaLabel18.Name = "gunaLabel18";
-			this.gunaLabel18.Size = new System.Drawing.Size(72, 20);
+			this.gunaLabel18.Size = new System.Drawing.Size(92, 20);
 			this.gunaLabel18.TabIndex = 0;
-			this.gunaLabel18.Text = "Hranolky";
+			this.gunaLabel18.Text = "Hranolky XL";
 			this.gunaLabel18.Click += new System.EventHandler(this.gunaLabel18_Click);
 			// 
 			// gunaPanel7
 			// 
 			this.gunaPanel7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel7.BackgroundImage")));
 			this.gunaPanel7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-			this.gunaPanel7.Controls.Add(this.gunaGradient2Panel7);
+			this.gunaPanel7.Controls.Add(this.gunaGradient2Panel13);
 			this.gunaPanel7.Controls.Add(this.gunaShadowPanel7);
-			this.gunaPanel7.Location = new System.Drawing.Point(315, 3);
+			this.gunaPanel7.Location = new System.Drawing.Point(3, 159);
 			this.gunaPanel7.Name = "gunaPanel7";
 			this.gunaPanel7.Size = new System.Drawing.Size(150, 150);
 			this.gunaPanel7.TabIndex = 15;
-			// 
-			// gunaGradient2Panel7
-			// 
-			this.gunaGradient2Panel7.BackColor = System.Drawing.Color.Transparent;
-			this.gunaGradient2Panel7.Controls.Add(this.gunaLabel13);
-			this.gunaGradient2Panel7.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
-			this.gunaGradient2Panel7.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
-			this.gunaGradient2Panel7.Location = new System.Drawing.Point(0, -1);
-			this.gunaGradient2Panel7.Name = "gunaGradient2Panel7";
-			this.gunaGradient2Panel7.Radius = 4;
-			this.gunaGradient2Panel7.Size = new System.Drawing.Size(54, 34);
-			this.gunaGradient2Panel7.TabIndex = 13;
-			// 
-			// gunaLabel13
-			// 
-			this.gunaLabel13.AutoSize = true;
-			this.gunaLabel13.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
-			this.gunaLabel13.ForeColor = System.Drawing.Color.White;
-			this.gunaLabel13.Location = new System.Drawing.Point(5, 7);
-			this.gunaLabel13.Name = "gunaLabel13";
-			this.gunaLabel13.Size = new System.Drawing.Size(45, 20);
-			this.gunaLabel13.TabIndex = 0;
-			this.gunaLabel13.Text = "3.20€";
 			// 
 			// gunaShadowPanel7
 			// 
@@ -965,46 +997,23 @@
 			// gunaLabel14
 			// 
 			this.gunaLabel14.AutoSize = true;
-			this.gunaLabel14.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+			this.gunaLabel14.Font = new System.Drawing.Font("Yu Gothic UI", 10F, System.Drawing.FontStyle.Bold);
 			this.gunaLabel14.Location = new System.Drawing.Point(5, 11);
 			this.gunaLabel14.Name = "gunaLabel14";
-			this.gunaLabel14.Size = new System.Drawing.Size(134, 20);
+			this.gunaLabel14.Size = new System.Drawing.Size(132, 19);
 			this.gunaLabel14.TabIndex = 0;
-			this.gunaLabel14.Text = "Batátové hranolky";
+			this.gunaLabel14.Text = "Batátové hranolky L";
 			// 
 			// gunaPanel8
 			// 
 			this.gunaPanel8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel8.BackgroundImage")));
 			this.gunaPanel8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-			this.gunaPanel8.Controls.Add(this.gunaGradient2Panel8);
+			this.gunaPanel8.Controls.Add(this.gunaGradient2Panel11);
 			this.gunaPanel8.Controls.Add(this.gunaShadowPanel8);
-			this.gunaPanel8.Location = new System.Drawing.Point(159, 3);
+			this.gunaPanel8.Location = new System.Drawing.Point(315, 3);
 			this.gunaPanel8.Name = "gunaPanel8";
 			this.gunaPanel8.Size = new System.Drawing.Size(150, 150);
 			this.gunaPanel8.TabIndex = 16;
-			// 
-			// gunaGradient2Panel8
-			// 
-			this.gunaGradient2Panel8.BackColor = System.Drawing.Color.Transparent;
-			this.gunaGradient2Panel8.Controls.Add(this.gunaLabel15);
-			this.gunaGradient2Panel8.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
-			this.gunaGradient2Panel8.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
-			this.gunaGradient2Panel8.Location = new System.Drawing.Point(0, -1);
-			this.gunaGradient2Panel8.Name = "gunaGradient2Panel8";
-			this.gunaGradient2Panel8.Radius = 4;
-			this.gunaGradient2Panel8.Size = new System.Drawing.Size(54, 34);
-			this.gunaGradient2Panel8.TabIndex = 13;
-			// 
-			// gunaLabel15
-			// 
-			this.gunaLabel15.AutoSize = true;
-			this.gunaLabel15.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
-			this.gunaLabel15.ForeColor = System.Drawing.Color.White;
-			this.gunaLabel15.Location = new System.Drawing.Point(5, 7);
-			this.gunaLabel15.Name = "gunaLabel15";
-			this.gunaLabel15.Size = new System.Drawing.Size(45, 20);
-			this.gunaLabel15.TabIndex = 0;
-			this.gunaLabel15.Text = "3.00€";
 			// 
 			// gunaShadowPanel8
 			// 
@@ -1021,33 +1030,787 @@
 			// gunaLabel16
 			// 
 			this.gunaLabel16.AutoSize = true;
-			this.gunaLabel16.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-			this.gunaLabel16.Location = new System.Drawing.Point(4, 11);
+			this.gunaLabel16.Font = new System.Drawing.Font("Yu Gothic UI", 10F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel16.Location = new System.Drawing.Point(5, 12);
 			this.gunaLabel16.Name = "gunaLabel16";
-			this.gunaLabel16.Size = new System.Drawing.Size(136, 20);
+			this.gunaLabel16.Size = new System.Drawing.Size(134, 19);
 			this.gunaLabel16.TabIndex = 0;
-			this.gunaLabel16.Text = "Steakové hranolky";
+			this.gunaLabel16.Text = "Steakové hranolky L";
+			// 
+			// gunaPanel10
+			// 
+			this.gunaPanel10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel10.BackgroundImage")));
+			this.gunaPanel10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+			this.gunaPanel10.Controls.Add(this.gunaGradient2Panel10);
+			this.gunaPanel10.Controls.Add(this.gunaShadowPanel10);
+			this.gunaPanel10.Location = new System.Drawing.Point(3, 3);
+			this.gunaPanel10.Name = "gunaPanel10";
+			this.gunaPanel10.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel10.TabIndex = 15;
+			// 
+			// gunaGradient2Panel10
+			// 
+			this.gunaGradient2Panel10.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel10.Controls.Add(this.gunaLabel19);
+			this.gunaGradient2Panel10.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel10.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel10.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel10.Name = "gunaGradient2Panel10";
+			this.gunaGradient2Panel10.Radius = 4;
+			this.gunaGradient2Panel10.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel10.TabIndex = 13;
+			// 
+			// gunaLabel19
+			// 
+			this.gunaLabel19.AutoSize = true;
+			this.gunaLabel19.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel19.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel19.Location = new System.Drawing.Point(4, 7);
+			this.gunaLabel19.Name = "gunaLabel19";
+			this.gunaLabel19.Size = new System.Drawing.Size(88, 20);
+			this.gunaLabel19.TabIndex = 0;
+			this.gunaLabel19.Text = "1.50€ (150g)";
+			// 
+			// gunaShadowPanel10
+			// 
+			this.gunaShadowPanel10.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel10.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel10.Controls.Add(this.gunaLabel20);
+			this.gunaShadowPanel10.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel10.Name = "gunaShadowPanel10";
+			this.gunaShadowPanel10.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel10.ShadowShift = 2;
+			this.gunaShadowPanel10.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel10.TabIndex = 12;
+			// 
+			// gunaLabel20
+			// 
+			this.gunaLabel20.AutoSize = true;
+			this.gunaLabel20.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+			this.gunaLabel20.Location = new System.Drawing.Point(31, 11);
+			this.gunaLabel20.Name = "gunaLabel20";
+			this.gunaLabel20.Size = new System.Drawing.Size(83, 20);
+			this.gunaLabel20.TabIndex = 0;
+			this.gunaLabel20.Text = "Hranolky L";
+			// 
+			// gunaGradient2Panel11
+			// 
+			this.gunaGradient2Panel11.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel11.Controls.Add(this.gunaLabel21);
+			this.gunaGradient2Panel11.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel11.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel11.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel11.Name = "gunaGradient2Panel11";
+			this.gunaGradient2Panel11.Radius = 4;
+			this.gunaGradient2Panel11.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel11.TabIndex = 14;
+			// 
+			// gunaLabel21
+			// 
+			this.gunaLabel21.AutoSize = true;
+			this.gunaLabel21.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel21.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel21.Location = new System.Drawing.Point(4, 7);
+			this.gunaLabel21.Name = "gunaLabel21";
+			this.gunaLabel21.Size = new System.Drawing.Size(88, 20);
+			this.gunaLabel21.TabIndex = 0;
+			this.gunaLabel21.Text = "1.80€ (150g)";
+			// 
+			// gunaPanel11
+			// 
+			this.gunaPanel11.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel11.BackgroundImage")));
+			this.gunaPanel11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+			this.gunaPanel11.Controls.Add(this.gunaGradient2Panel8);
+			this.gunaPanel11.Controls.Add(this.gunaShadowPanel11);
+			this.gunaPanel11.Location = new System.Drawing.Point(471, 3);
+			this.gunaPanel11.Name = "gunaPanel11";
+			this.gunaPanel11.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel11.TabIndex = 17;
+			// 
+			// gunaGradient2Panel8
+			// 
+			this.gunaGradient2Panel8.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel8.Controls.Add(this.gunaLabel15);
+			this.gunaGradient2Panel8.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel8.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel8.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel8.Name = "gunaGradient2Panel8";
+			this.gunaGradient2Panel8.Radius = 4;
+			this.gunaGradient2Panel8.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel8.TabIndex = 14;
+			// 
+			// gunaLabel15
+			// 
+			this.gunaLabel15.AutoSize = true;
+			this.gunaLabel15.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel15.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel15.Location = new System.Drawing.Point(2, 7);
+			this.gunaLabel15.Name = "gunaLabel15";
+			this.gunaLabel15.Size = new System.Drawing.Size(93, 20);
+			this.gunaLabel15.TabIndex = 0;
+			this.gunaLabel15.Text = "2.40€ (200g)";
+			// 
+			// gunaShadowPanel11
+			// 
+			this.gunaShadowPanel11.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel11.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel11.Controls.Add(this.gunaLabel22);
+			this.gunaShadowPanel11.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel11.Name = "gunaShadowPanel11";
+			this.gunaShadowPanel11.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel11.ShadowShift = 2;
+			this.gunaShadowPanel11.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel11.TabIndex = 12;
+			// 
+			// gunaLabel22
+			// 
+			this.gunaLabel22.AutoSize = true;
+			this.gunaLabel22.Font = new System.Drawing.Font("Yu Gothic UI", 10F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel22.Location = new System.Drawing.Point(1, 12);
+			this.gunaLabel22.Name = "gunaLabel22";
+			this.gunaLabel22.Size = new System.Drawing.Size(143, 19);
+			this.gunaLabel22.TabIndex = 0;
+			this.gunaLabel22.Text = "Steakové hranolky XL";
+			// 
+			// gunaPanel12
+			// 
+			this.gunaPanel12.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel12.BackgroundImage")));
+			this.gunaPanel12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+			this.gunaPanel12.Controls.Add(this.gunaShadowPanel12);
+			this.gunaPanel12.Controls.Add(this.gunaGradient2Panel7);
+			this.gunaPanel12.Location = new System.Drawing.Point(159, 159);
+			this.gunaPanel12.Name = "gunaPanel12";
+			this.gunaPanel12.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel12.TabIndex = 18;
+			// 
+			// gunaShadowPanel12
+			// 
+			this.gunaShadowPanel12.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel12.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel12.Controls.Add(this.gunaLabel23);
+			this.gunaShadowPanel12.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel12.Name = "gunaShadowPanel12";
+			this.gunaShadowPanel12.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel12.ShadowShift = 2;
+			this.gunaShadowPanel12.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel12.TabIndex = 12;
+			// 
+			// gunaGradient2Panel13
+			// 
+			this.gunaGradient2Panel13.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel13.Controls.Add(this.gunaLabel25);
+			this.gunaGradient2Panel13.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel13.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel13.Location = new System.Drawing.Point(0, 0);
+			this.gunaGradient2Panel13.Name = "gunaGradient2Panel13";
+			this.gunaGradient2Panel13.Radius = 4;
+			this.gunaGradient2Panel13.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel13.TabIndex = 14;
+			// 
+			// gunaLabel25
+			// 
+			this.gunaLabel25.AutoSize = true;
+			this.gunaLabel25.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel25.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel25.Location = new System.Drawing.Point(3, 7);
+			this.gunaLabel25.Name = "gunaLabel25";
+			this.gunaLabel25.Size = new System.Drawing.Size(90, 20);
+			this.gunaLabel25.TabIndex = 0;
+			this.gunaLabel25.Text = "2.70€ (150g)";
+			// 
+			// gunaGradient2Panel7
+			// 
+			this.gunaGradient2Panel7.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel7.Controls.Add(this.gunaLabel13);
+			this.gunaGradient2Panel7.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel7.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel7.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel7.Name = "gunaGradient2Panel7";
+			this.gunaGradient2Panel7.Radius = 4;
+			this.gunaGradient2Panel7.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel7.TabIndex = 19;
+			// 
+			// gunaLabel13
+			// 
+			this.gunaLabel13.AutoSize = true;
+			this.gunaLabel13.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel13.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel13.Location = new System.Drawing.Point(2, 7);
+			this.gunaLabel13.Name = "gunaLabel13";
+			this.gunaLabel13.Size = new System.Drawing.Size(92, 20);
+			this.gunaLabel13.TabIndex = 0;
+			this.gunaLabel13.Text = "3.50€ (200g)";
+			// 
+			// gunaLabel23
+			// 
+			this.gunaLabel23.AutoSize = true;
+			this.gunaLabel23.Font = new System.Drawing.Font("Yu Gothic UI", 10F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel23.Location = new System.Drawing.Point(2, 11);
+			this.gunaLabel23.Name = "gunaLabel23";
+			this.gunaLabel23.Size = new System.Drawing.Size(141, 19);
+			this.gunaLabel23.TabIndex = 1;
+			this.gunaLabel23.Text = "Batátové hranolky XL";
+			// 
+			// BurgersSortPanel
+			// 
+			this.BurgersSortPanel.BackColor = System.Drawing.Color.Transparent;
+			this.BurgersSortPanel.Controls.Add(this.gunaAdvenceTileButton5);
+			this.BurgersSortPanel.Controls.Add(this.gunaAdvenceTileButton6);
+			this.BurgersSortPanel.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.BurgersSortPanel.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.BurgersSortPanel.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.Vertical;
+			this.BurgersSortPanel.Location = new System.Drawing.Point(103, 32);
+			this.BurgersSortPanel.Name = "BurgersSortPanel";
+			this.BurgersSortPanel.Radius = 6;
+			this.BurgersSortPanel.Size = new System.Drawing.Size(110, 189);
+			this.BurgersSortPanel.TabIndex = 12;
+			// 
+			// gunaAdvenceTileButton5
+			// 
+			this.gunaAdvenceTileButton5.Animated = true;
+			this.gunaAdvenceTileButton5.AnimationHoverSpeed = 0.07F;
+			this.gunaAdvenceTileButton5.AnimationSpeed = 0.03F;
+			this.gunaAdvenceTileButton5.BaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton5.BorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton5.CheckedBaseColor = System.Drawing.Color.Gray;
+			this.gunaAdvenceTileButton5.CheckedBorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton5.CheckedForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton5.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton5.CheckedImage")));
+			this.gunaAdvenceTileButton5.CheckedLineColor = System.Drawing.Color.DimGray;
+			this.gunaAdvenceTileButton5.DialogResult = System.Windows.Forms.DialogResult.None;
+			this.gunaAdvenceTileButton5.FocusedColor = System.Drawing.Color.Empty;
+			this.gunaAdvenceTileButton5.Font = new System.Drawing.Font("Segoe UI Light", 12F);
+			this.gunaAdvenceTileButton5.ForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton5.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton5.Image")));
+			this.gunaAdvenceTileButton5.ImageSize = new System.Drawing.Size(32, 32);
+			this.gunaAdvenceTileButton5.LineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton5.Location = new System.Drawing.Point(5, 97);
+			this.gunaAdvenceTileButton5.Name = "gunaAdvenceTileButton5";
+			this.gunaAdvenceTileButton5.OnHoverBaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton5.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
+			this.gunaAdvenceTileButton5.OnHoverForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton5.OnHoverImage = null;
+			this.gunaAdvenceTileButton5.OnHoverLineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton5.OnPressedColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton5.Size = new System.Drawing.Size(100, 90);
+			this.gunaAdvenceTileButton5.TabIndex = 12;
+			this.gunaAdvenceTileButton5.Text = "Bez mäsa";
+			// 
+			// gunaAdvenceTileButton6
+			// 
+			this.gunaAdvenceTileButton6.Animated = true;
+			this.gunaAdvenceTileButton6.AnimationHoverSpeed = 0.07F;
+			this.gunaAdvenceTileButton6.AnimationSpeed = 0.03F;
+			this.gunaAdvenceTileButton6.BaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton6.BorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton6.CheckedBaseColor = System.Drawing.Color.Gray;
+			this.gunaAdvenceTileButton6.CheckedBorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton6.CheckedForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton6.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton6.CheckedImage")));
+			this.gunaAdvenceTileButton6.CheckedLineColor = System.Drawing.Color.DimGray;
+			this.gunaAdvenceTileButton6.DialogResult = System.Windows.Forms.DialogResult.None;
+			this.gunaAdvenceTileButton6.FocusedColor = System.Drawing.Color.Empty;
+			this.gunaAdvenceTileButton6.Font = new System.Drawing.Font("Segoe UI Light", 12F);
+			this.gunaAdvenceTileButton6.ForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton6.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton6.Image")));
+			this.gunaAdvenceTileButton6.ImageSize = new System.Drawing.Size(32, 32);
+			this.gunaAdvenceTileButton6.LineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton6.Location = new System.Drawing.Point(5, 3);
+			this.gunaAdvenceTileButton6.Name = "gunaAdvenceTileButton6";
+			this.gunaAdvenceTileButton6.OnHoverBaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton6.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
+			this.gunaAdvenceTileButton6.OnHoverForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton6.OnHoverImage = null;
+			this.gunaAdvenceTileButton6.OnHoverLineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton6.OnPressedColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton6.Size = new System.Drawing.Size(100, 90);
+			this.gunaAdvenceTileButton6.TabIndex = 10;
+			this.gunaAdvenceTileButton6.Text = "S mäsom";
+			// 
+			// FriesSortPanel
+			// 
+			this.FriesSortPanel.BackColor = System.Drawing.Color.Transparent;
+			this.FriesSortPanel.Controls.Add(this.gunaAdvenceTileButton4);
+			this.FriesSortPanel.Controls.Add(this.gunaAdvenceTileButton7);
+			this.FriesSortPanel.Controls.Add(this.gunaAdvenceTileButton8);
+			this.FriesSortPanel.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.FriesSortPanel.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.FriesSortPanel.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.Vertical;
+			this.FriesSortPanel.Location = new System.Drawing.Point(103, 32);
+			this.FriesSortPanel.Name = "FriesSortPanel";
+			this.FriesSortPanel.Radius = 6;
+			this.FriesSortPanel.Size = new System.Drawing.Size(110, 285);
+			this.FriesSortPanel.TabIndex = 13;
+			// 
+			// gunaAdvenceTileButton4
+			// 
+			this.gunaAdvenceTileButton4.Animated = true;
+			this.gunaAdvenceTileButton4.AnimationHoverSpeed = 0.07F;
+			this.gunaAdvenceTileButton4.AnimationSpeed = 0.03F;
+			this.gunaAdvenceTileButton4.BaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton4.BorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton4.CheckedBaseColor = System.Drawing.Color.Gray;
+			this.gunaAdvenceTileButton4.CheckedBorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton4.CheckedForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton4.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton4.CheckedImage")));
+			this.gunaAdvenceTileButton4.CheckedLineColor = System.Drawing.Color.DimGray;
+			this.gunaAdvenceTileButton4.DialogResult = System.Windows.Forms.DialogResult.None;
+			this.gunaAdvenceTileButton4.FocusedColor = System.Drawing.Color.Empty;
+			this.gunaAdvenceTileButton4.Font = new System.Drawing.Font("Segoe UI Light", 11F);
+			this.gunaAdvenceTileButton4.ForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton4.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton4.Image")));
+			this.gunaAdvenceTileButton4.ImageSize = new System.Drawing.Size(32, 32);
+			this.gunaAdvenceTileButton4.LineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton4.Location = new System.Drawing.Point(5, 191);
+			this.gunaAdvenceTileButton4.Name = "gunaAdvenceTileButton4";
+			this.gunaAdvenceTileButton4.OnHoverBaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton4.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
+			this.gunaAdvenceTileButton4.OnHoverForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton4.OnHoverImage = null;
+			this.gunaAdvenceTileButton4.OnHoverLineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton4.OnPressedColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton4.Size = new System.Drawing.Size(100, 90);
+			this.gunaAdvenceTileButton4.TabIndex = 11;
+			this.gunaAdvenceTileButton4.Text = "Batátové";
+			// 
+			// gunaAdvenceTileButton7
+			// 
+			this.gunaAdvenceTileButton7.Animated = true;
+			this.gunaAdvenceTileButton7.AnimationHoverSpeed = 0.07F;
+			this.gunaAdvenceTileButton7.AnimationSpeed = 0.03F;
+			this.gunaAdvenceTileButton7.BaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton7.BorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton7.CheckedBaseColor = System.Drawing.Color.Gray;
+			this.gunaAdvenceTileButton7.CheckedBorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton7.CheckedForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton7.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton7.CheckedImage")));
+			this.gunaAdvenceTileButton7.CheckedLineColor = System.Drawing.Color.DimGray;
+			this.gunaAdvenceTileButton7.DialogResult = System.Windows.Forms.DialogResult.None;
+			this.gunaAdvenceTileButton7.FocusedColor = System.Drawing.Color.Empty;
+			this.gunaAdvenceTileButton7.Font = new System.Drawing.Font("Segoe UI Light", 11F);
+			this.gunaAdvenceTileButton7.ForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton7.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton7.Image")));
+			this.gunaAdvenceTileButton7.ImageSize = new System.Drawing.Size(32, 32);
+			this.gunaAdvenceTileButton7.LineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton7.Location = new System.Drawing.Point(5, 97);
+			this.gunaAdvenceTileButton7.Name = "gunaAdvenceTileButton7";
+			this.gunaAdvenceTileButton7.OnHoverBaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton7.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
+			this.gunaAdvenceTileButton7.OnHoverForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton7.OnHoverImage = null;
+			this.gunaAdvenceTileButton7.OnHoverLineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton7.OnPressedColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton7.Size = new System.Drawing.Size(100, 90);
+			this.gunaAdvenceTileButton7.TabIndex = 12;
+			this.gunaAdvenceTileButton7.Text = "Steakové";
+			// 
+			// gunaAdvenceTileButton8
+			// 
+			this.gunaAdvenceTileButton8.Animated = true;
+			this.gunaAdvenceTileButton8.AnimationHoverSpeed = 0.07F;
+			this.gunaAdvenceTileButton8.AnimationSpeed = 0.03F;
+			this.gunaAdvenceTileButton8.BaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton8.BorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton8.CheckedBaseColor = System.Drawing.Color.Gray;
+			this.gunaAdvenceTileButton8.CheckedBorderColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton8.CheckedForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton8.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton8.CheckedImage")));
+			this.gunaAdvenceTileButton8.CheckedLineColor = System.Drawing.Color.DimGray;
+			this.gunaAdvenceTileButton8.DialogResult = System.Windows.Forms.DialogResult.None;
+			this.gunaAdvenceTileButton8.FocusedColor = System.Drawing.Color.Empty;
+			this.gunaAdvenceTileButton8.Font = new System.Drawing.Font("Segoe UI Light", 11F);
+			this.gunaAdvenceTileButton8.ForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton8.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceTileButton8.Image")));
+			this.gunaAdvenceTileButton8.ImageSize = new System.Drawing.Size(32, 32);
+			this.gunaAdvenceTileButton8.LineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton8.Location = new System.Drawing.Point(5, 3);
+			this.gunaAdvenceTileButton8.Name = "gunaAdvenceTileButton8";
+			this.gunaAdvenceTileButton8.OnHoverBaseColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton8.OnHoverBorderColor = System.Drawing.Color.OrangeRed;
+			this.gunaAdvenceTileButton8.OnHoverForeColor = System.Drawing.Color.White;
+			this.gunaAdvenceTileButton8.OnHoverImage = null;
+			this.gunaAdvenceTileButton8.OnHoverLineColor = System.Drawing.Color.Transparent;
+			this.gunaAdvenceTileButton8.OnPressedColor = System.Drawing.Color.Black;
+			this.gunaAdvenceTileButton8.Size = new System.Drawing.Size(100, 90);
+			this.gunaAdvenceTileButton8.TabIndex = 10;
+			this.gunaAdvenceTileButton8.Text = "Klasické";
+			// 
+			// DrinksPanel
+			// 
+			this.DrinksPanel.Controls.Add(this.gunaPanel13);
+			this.DrinksPanel.Controls.Add(this.gunaPanel14);
+			this.DrinksPanel.Controls.Add(this.gunaPanel15);
+			this.DrinksPanel.Controls.Add(this.gunaPanel16);
+			this.DrinksPanel.Controls.Add(this.gunaPanel17);
+			this.DrinksPanel.Controls.Add(this.gunaPanel18);
+			this.DrinksPanel.Location = new System.Drawing.Point(229, 188);
+			this.DrinksPanel.Name = "DrinksPanel";
+			this.DrinksPanel.Size = new System.Drawing.Size(625, 406);
+			this.DrinksPanel.TabIndex = 14;
+			// 
+			// gunaPanel13
+			// 
+			this.gunaPanel13.BackColor = System.Drawing.Color.White;
+			this.gunaPanel13.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel13.BackgroundImage")));
+			this.gunaPanel13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+			this.gunaPanel13.Controls.Add(this.gunaGradient2Panel1);
+			this.gunaPanel13.Controls.Add(this.gunaShadowPanel13);
+			this.gunaPanel13.Location = new System.Drawing.Point(3, 3);
+			this.gunaPanel13.Name = "gunaPanel13";
+			this.gunaPanel13.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel13.TabIndex = 15;
+			// 
+			// gunaGradient2Panel1
+			// 
+			this.gunaGradient2Panel1.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel1.Controls.Add(this.gunaLabel24);
+			this.gunaGradient2Panel1.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel1.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel1.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel1.Name = "gunaGradient2Panel1";
+			this.gunaGradient2Panel1.Radius = 4;
+			this.gunaGradient2Panel1.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel1.TabIndex = 13;
+			// 
+			// gunaLabel24
+			// 
+			this.gunaLabel24.AutoSize = true;
+			this.gunaLabel24.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel24.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel24.Location = new System.Drawing.Point(4, 7);
+			this.gunaLabel24.Name = "gunaLabel24";
+			this.gunaLabel24.Size = new System.Drawing.Size(88, 20);
+			this.gunaLabel24.TabIndex = 0;
+			this.gunaLabel24.Text = "1.50€ (150g)";
+			// 
+			// gunaShadowPanel13
+			// 
+			this.gunaShadowPanel13.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel13.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel13.Controls.Add(this.gunaLabel26);
+			this.gunaShadowPanel13.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel13.Name = "gunaShadowPanel13";
+			this.gunaShadowPanel13.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel13.ShadowShift = 2;
+			this.gunaShadowPanel13.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel13.TabIndex = 12;
+			// 
+			// gunaLabel26
+			// 
+			this.gunaLabel26.AutoSize = true;
+			this.gunaLabel26.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+			this.gunaLabel26.Location = new System.Drawing.Point(31, 11);
+			this.gunaLabel26.Name = "gunaLabel26";
+			this.gunaLabel26.Size = new System.Drawing.Size(83, 20);
+			this.gunaLabel26.TabIndex = 0;
+			this.gunaLabel26.Text = "Hranolky L";
+			// 
+			// gunaPanel14
+			// 
+			this.gunaPanel14.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel14.BackgroundImage")));
+			this.gunaPanel14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+			this.gunaPanel14.Controls.Add(this.gunaGradient2Panel12);
+			this.gunaPanel14.Controls.Add(this.gunaShadowPanel14);
+			this.gunaPanel14.Location = new System.Drawing.Point(159, 3);
+			this.gunaPanel14.Name = "gunaPanel14";
+			this.gunaPanel14.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel14.TabIndex = 14;
+			// 
+			// gunaGradient2Panel12
+			// 
+			this.gunaGradient2Panel12.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel12.Controls.Add(this.gunaLabel27);
+			this.gunaGradient2Panel12.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel12.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel12.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel12.Name = "gunaGradient2Panel12";
+			this.gunaGradient2Panel12.Radius = 4;
+			this.gunaGradient2Panel12.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel12.TabIndex = 13;
+			// 
+			// gunaLabel27
+			// 
+			this.gunaLabel27.AutoSize = true;
+			this.gunaLabel27.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel27.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel27.Location = new System.Drawing.Point(2, 7);
+			this.gunaLabel27.Name = "gunaLabel27";
+			this.gunaLabel27.Size = new System.Drawing.Size(92, 20);
+			this.gunaLabel27.TabIndex = 0;
+			this.gunaLabel27.Text = "2.20€ (200g)";
+			// 
+			// gunaShadowPanel14
+			// 
+			this.gunaShadowPanel14.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel14.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel14.Controls.Add(this.gunaLabel28);
+			this.gunaShadowPanel14.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel14.Name = "gunaShadowPanel14";
+			this.gunaShadowPanel14.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel14.ShadowShift = 2;
+			this.gunaShadowPanel14.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel14.TabIndex = 12;
+			// 
+			// gunaLabel28
+			// 
+			this.gunaLabel28.AutoSize = true;
+			this.gunaLabel28.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+			this.gunaLabel28.Location = new System.Drawing.Point(31, 11);
+			this.gunaLabel28.Name = "gunaLabel28";
+			this.gunaLabel28.Size = new System.Drawing.Size(92, 20);
+			this.gunaLabel28.TabIndex = 0;
+			this.gunaLabel28.Text = "Hranolky XL";
+			// 
+			// gunaPanel15
+			// 
+			this.gunaPanel15.BackColor = System.Drawing.Color.White;
+			this.gunaPanel15.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel15.BackgroundImage")));
+			this.gunaPanel15.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+			this.gunaPanel15.Controls.Add(this.gunaGradient2Panel14);
+			this.gunaPanel15.Controls.Add(this.gunaShadowPanel15);
+			this.gunaPanel15.Location = new System.Drawing.Point(315, 3);
+			this.gunaPanel15.Name = "gunaPanel15";
+			this.gunaPanel15.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel15.TabIndex = 16;
+			// 
+			// gunaGradient2Panel14
+			// 
+			this.gunaGradient2Panel14.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel14.Controls.Add(this.gunaLabel29);
+			this.gunaGradient2Panel14.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel14.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel14.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel14.Name = "gunaGradient2Panel14";
+			this.gunaGradient2Panel14.Radius = 4;
+			this.gunaGradient2Panel14.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel14.TabIndex = 14;
+			// 
+			// gunaLabel29
+			// 
+			this.gunaLabel29.AutoSize = true;
+			this.gunaLabel29.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel29.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel29.Location = new System.Drawing.Point(4, 7);
+			this.gunaLabel29.Name = "gunaLabel29";
+			this.gunaLabel29.Size = new System.Drawing.Size(88, 20);
+			this.gunaLabel29.TabIndex = 0;
+			this.gunaLabel29.Text = "1.80€ (150g)";
+			// 
+			// gunaShadowPanel15
+			// 
+			this.gunaShadowPanel15.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel15.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel15.Controls.Add(this.gunaLabel30);
+			this.gunaShadowPanel15.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel15.Name = "gunaShadowPanel15";
+			this.gunaShadowPanel15.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel15.ShadowShift = 2;
+			this.gunaShadowPanel15.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel15.TabIndex = 12;
+			// 
+			// gunaLabel30
+			// 
+			this.gunaLabel30.AutoSize = true;
+			this.gunaLabel30.Font = new System.Drawing.Font("Yu Gothic UI", 10F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel30.Location = new System.Drawing.Point(5, 12);
+			this.gunaLabel30.Name = "gunaLabel30";
+			this.gunaLabel30.Size = new System.Drawing.Size(134, 19);
+			this.gunaLabel30.TabIndex = 0;
+			this.gunaLabel30.Text = "Steakové hranolky L";
+			// 
+			// gunaPanel16
+			// 
+			this.gunaPanel16.BackColor = System.Drawing.Color.White;
+			this.gunaPanel16.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel16.BackgroundImage")));
+			this.gunaPanel16.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+			this.gunaPanel16.Controls.Add(this.gunaGradient2Panel15);
+			this.gunaPanel16.Controls.Add(this.gunaShadowPanel16);
+			this.gunaPanel16.Location = new System.Drawing.Point(471, 3);
+			this.gunaPanel16.Name = "gunaPanel16";
+			this.gunaPanel16.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel16.TabIndex = 17;
+			// 
+			// gunaGradient2Panel15
+			// 
+			this.gunaGradient2Panel15.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel15.Controls.Add(this.gunaLabel31);
+			this.gunaGradient2Panel15.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel15.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel15.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel15.Name = "gunaGradient2Panel15";
+			this.gunaGradient2Panel15.Radius = 4;
+			this.gunaGradient2Panel15.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel15.TabIndex = 14;
+			// 
+			// gunaLabel31
+			// 
+			this.gunaLabel31.AutoSize = true;
+			this.gunaLabel31.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel31.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel31.Location = new System.Drawing.Point(2, 7);
+			this.gunaLabel31.Name = "gunaLabel31";
+			this.gunaLabel31.Size = new System.Drawing.Size(93, 20);
+			this.gunaLabel31.TabIndex = 0;
+			this.gunaLabel31.Text = "2.40€ (200g)";
+			// 
+			// gunaShadowPanel16
+			// 
+			this.gunaShadowPanel16.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel16.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel16.Controls.Add(this.gunaLabel32);
+			this.gunaShadowPanel16.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel16.Name = "gunaShadowPanel16";
+			this.gunaShadowPanel16.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel16.ShadowShift = 2;
+			this.gunaShadowPanel16.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel16.TabIndex = 12;
+			// 
+			// gunaLabel32
+			// 
+			this.gunaLabel32.AutoSize = true;
+			this.gunaLabel32.Font = new System.Drawing.Font("Yu Gothic UI", 10F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel32.Location = new System.Drawing.Point(1, 12);
+			this.gunaLabel32.Name = "gunaLabel32";
+			this.gunaLabel32.Size = new System.Drawing.Size(143, 19);
+			this.gunaLabel32.TabIndex = 0;
+			this.gunaLabel32.Text = "Steakové hranolky XL";
+			// 
+			// gunaPanel17
+			// 
+			this.gunaPanel17.BackColor = System.Drawing.Color.White;
+			this.gunaPanel17.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel17.BackgroundImage")));
+			this.gunaPanel17.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+			this.gunaPanel17.Controls.Add(this.gunaGradient2Panel16);
+			this.gunaPanel17.Controls.Add(this.gunaShadowPanel17);
+			this.gunaPanel17.Location = new System.Drawing.Point(3, 159);
+			this.gunaPanel17.Name = "gunaPanel17";
+			this.gunaPanel17.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel17.TabIndex = 15;
+			// 
+			// gunaGradient2Panel16
+			// 
+			this.gunaGradient2Panel16.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel16.Controls.Add(this.gunaLabel33);
+			this.gunaGradient2Panel16.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel16.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel16.Location = new System.Drawing.Point(0, 0);
+			this.gunaGradient2Panel16.Name = "gunaGradient2Panel16";
+			this.gunaGradient2Panel16.Radius = 4;
+			this.gunaGradient2Panel16.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel16.TabIndex = 14;
+			// 
+			// gunaLabel33
+			// 
+			this.gunaLabel33.AutoSize = true;
+			this.gunaLabel33.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel33.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel33.Location = new System.Drawing.Point(3, 7);
+			this.gunaLabel33.Name = "gunaLabel33";
+			this.gunaLabel33.Size = new System.Drawing.Size(90, 20);
+			this.gunaLabel33.TabIndex = 0;
+			this.gunaLabel33.Text = "2.70€ (150g)";
+			// 
+			// gunaShadowPanel17
+			// 
+			this.gunaShadowPanel17.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel17.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel17.Controls.Add(this.gunaLabel34);
+			this.gunaShadowPanel17.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel17.Name = "gunaShadowPanel17";
+			this.gunaShadowPanel17.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel17.ShadowShift = 2;
+			this.gunaShadowPanel17.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel17.TabIndex = 12;
+			// 
+			// gunaLabel34
+			// 
+			this.gunaLabel34.AutoSize = true;
+			this.gunaLabel34.Font = new System.Drawing.Font("Yu Gothic UI", 10F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel34.Location = new System.Drawing.Point(5, 11);
+			this.gunaLabel34.Name = "gunaLabel34";
+			this.gunaLabel34.Size = new System.Drawing.Size(132, 19);
+			this.gunaLabel34.TabIndex = 0;
+			this.gunaLabel34.Text = "Batátové hranolky L";
+			// 
+			// gunaPanel18
+			// 
+			this.gunaPanel18.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gunaPanel18.BackgroundImage")));
+			this.gunaPanel18.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+			this.gunaPanel18.Controls.Add(this.gunaShadowPanel18);
+			this.gunaPanel18.Controls.Add(this.gunaGradient2Panel17);
+			this.gunaPanel18.Location = new System.Drawing.Point(159, 159);
+			this.gunaPanel18.Name = "gunaPanel18";
+			this.gunaPanel18.Size = new System.Drawing.Size(150, 150);
+			this.gunaPanel18.TabIndex = 18;
+			// 
+			// gunaShadowPanel18
+			// 
+			this.gunaShadowPanel18.BackColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel18.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+			this.gunaShadowPanel18.Controls.Add(this.gunaLabel35);
+			this.gunaShadowPanel18.Location = new System.Drawing.Point(3, 106);
+			this.gunaShadowPanel18.Name = "gunaShadowPanel18";
+			this.gunaShadowPanel18.ShadowColor = System.Drawing.Color.Transparent;
+			this.gunaShadowPanel18.ShadowShift = 2;
+			this.gunaShadowPanel18.Size = new System.Drawing.Size(144, 41);
+			this.gunaShadowPanel18.TabIndex = 12;
+			// 
+			// gunaLabel35
+			// 
+			this.gunaLabel35.AutoSize = true;
+			this.gunaLabel35.Font = new System.Drawing.Font("Yu Gothic UI", 10F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel35.Location = new System.Drawing.Point(2, 11);
+			this.gunaLabel35.Name = "gunaLabel35";
+			this.gunaLabel35.Size = new System.Drawing.Size(141, 19);
+			this.gunaLabel35.TabIndex = 1;
+			this.gunaLabel35.Text = "Batátové hranolky XL";
+			// 
+			// gunaGradient2Panel17
+			// 
+			this.gunaGradient2Panel17.BackColor = System.Drawing.Color.Transparent;
+			this.gunaGradient2Panel17.Controls.Add(this.gunaLabel36);
+			this.gunaGradient2Panel17.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
+			this.gunaGradient2Panel17.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
+			this.gunaGradient2Panel17.Location = new System.Drawing.Point(0, -1);
+			this.gunaGradient2Panel17.Name = "gunaGradient2Panel17";
+			this.gunaGradient2Panel17.Radius = 4;
+			this.gunaGradient2Panel17.Size = new System.Drawing.Size(95, 34);
+			this.gunaGradient2Panel17.TabIndex = 19;
+			// 
+			// gunaLabel36
+			// 
+			this.gunaLabel36.AutoSize = true;
+			this.gunaLabel36.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel36.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel36.Location = new System.Drawing.Point(2, 7);
+			this.gunaLabel36.Name = "gunaLabel36";
+			this.gunaLabel36.Size = new System.Drawing.Size(92, 20);
+			this.gunaLabel36.TabIndex = 0;
+			this.gunaLabel36.Text = "3.50€ (200g)";
 			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(1127, 606);
-			this.Controls.Add(this.FriesPanel);
+			this.Controls.Add(this.DrinksPanel);
+			this.Controls.Add(this.FriesSortPanel);
+			this.Controls.Add(this.BurgersSortPanel);
 			this.Controls.Add(this.tableLayoutPanel1);
 			this.Controls.Add(this.BurgerPanel);
 			this.Controls.Add(this.gunaShadowPanel1);
 			this.Controls.Add(this.gunaPanel1);
 			this.Controls.Add(this.gunaControlBox3);
+			this.Controls.Add(this.FriesPanel);
 			this.Controls.Add(this.gunaControlBox2);
 			this.Controls.Add(this.gunaControlBox1);
-			this.Controls.Add(this.gunaGradient2Panel1);
+			this.Controls.Add(this.DrinksSortPanel);
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
 			this.Name = "Form1";
 			this.Text = "Form1";
 			this.Load += new System.EventHandler(this.Form1_Load);
 			this.gunaPanel1.ResumeLayout(false);
-			this.gunaGradient2Panel1.ResumeLayout(false);
+			this.DrinksSortPanel.ResumeLayout(false);
 			this.gunaShadowPanel1.ResumeLayout(false);
 			this.gunaShadowPanel1.PerformLayout();
 			((System.ComponentModel.ISupportInitialize)(this.gunaPictureBox1)).EndInit();
@@ -1084,15 +1847,63 @@
 			this.gunaShadowPanel9.ResumeLayout(false);
 			this.gunaShadowPanel9.PerformLayout();
 			this.gunaPanel7.ResumeLayout(false);
-			this.gunaGradient2Panel7.ResumeLayout(false);
-			this.gunaGradient2Panel7.PerformLayout();
 			this.gunaShadowPanel7.ResumeLayout(false);
 			this.gunaShadowPanel7.PerformLayout();
 			this.gunaPanel8.ResumeLayout(false);
-			this.gunaGradient2Panel8.ResumeLayout(false);
-			this.gunaGradient2Panel8.PerformLayout();
 			this.gunaShadowPanel8.ResumeLayout(false);
 			this.gunaShadowPanel8.PerformLayout();
+			this.gunaPanel10.ResumeLayout(false);
+			this.gunaGradient2Panel10.ResumeLayout(false);
+			this.gunaGradient2Panel10.PerformLayout();
+			this.gunaShadowPanel10.ResumeLayout(false);
+			this.gunaShadowPanel10.PerformLayout();
+			this.gunaGradient2Panel11.ResumeLayout(false);
+			this.gunaGradient2Panel11.PerformLayout();
+			this.gunaPanel11.ResumeLayout(false);
+			this.gunaGradient2Panel8.ResumeLayout(false);
+			this.gunaGradient2Panel8.PerformLayout();
+			this.gunaShadowPanel11.ResumeLayout(false);
+			this.gunaShadowPanel11.PerformLayout();
+			this.gunaPanel12.ResumeLayout(false);
+			this.gunaShadowPanel12.ResumeLayout(false);
+			this.gunaShadowPanel12.PerformLayout();
+			this.gunaGradient2Panel13.ResumeLayout(false);
+			this.gunaGradient2Panel13.PerformLayout();
+			this.gunaGradient2Panel7.ResumeLayout(false);
+			this.gunaGradient2Panel7.PerformLayout();
+			this.BurgersSortPanel.ResumeLayout(false);
+			this.FriesSortPanel.ResumeLayout(false);
+			this.DrinksPanel.ResumeLayout(false);
+			this.gunaPanel13.ResumeLayout(false);
+			this.gunaGradient2Panel1.ResumeLayout(false);
+			this.gunaGradient2Panel1.PerformLayout();
+			this.gunaShadowPanel13.ResumeLayout(false);
+			this.gunaShadowPanel13.PerformLayout();
+			this.gunaPanel14.ResumeLayout(false);
+			this.gunaGradient2Panel12.ResumeLayout(false);
+			this.gunaGradient2Panel12.PerformLayout();
+			this.gunaShadowPanel14.ResumeLayout(false);
+			this.gunaShadowPanel14.PerformLayout();
+			this.gunaPanel15.ResumeLayout(false);
+			this.gunaGradient2Panel14.ResumeLayout(false);
+			this.gunaGradient2Panel14.PerformLayout();
+			this.gunaShadowPanel15.ResumeLayout(false);
+			this.gunaShadowPanel15.PerformLayout();
+			this.gunaPanel16.ResumeLayout(false);
+			this.gunaGradient2Panel15.ResumeLayout(false);
+			this.gunaGradient2Panel15.PerformLayout();
+			this.gunaShadowPanel16.ResumeLayout(false);
+			this.gunaShadowPanel16.PerformLayout();
+			this.gunaPanel17.ResumeLayout(false);
+			this.gunaGradient2Panel16.ResumeLayout(false);
+			this.gunaGradient2Panel16.PerformLayout();
+			this.gunaShadowPanel17.ResumeLayout(false);
+			this.gunaShadowPanel17.PerformLayout();
+			this.gunaPanel18.ResumeLayout(false);
+			this.gunaShadowPanel18.ResumeLayout(false);
+			this.gunaShadowPanel18.PerformLayout();
+			this.gunaGradient2Panel17.ResumeLayout(false);
+			this.gunaGradient2Panel17.PerformLayout();
 			this.ResumeLayout(false);
 
 		}
@@ -1113,8 +1924,7 @@
 		private Guna.UI.WinForms.GunaGradientTileButton gunaGradientDrinks;
 		private Guna.UI.WinForms.GunaGradientTileButton gunaGradientFries;
 		private Guna.UI.WinForms.GunaGradientTileButton gunaGradientBurgers;
-		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel1;
-		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton4;
+		private Guna.UI.WinForms.GunaGradient2Panel DrinksSortPanel;
 		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton2;
 		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton3;
 		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton1;
@@ -1152,15 +1962,68 @@
 		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel9;
 		private Guna.UI.WinForms.GunaLabel gunaLabel18;
 		private Guna.UI.WinForms.GunaPanel gunaPanel7;
-		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel7;
-		private Guna.UI.WinForms.GunaLabel gunaLabel13;
 		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel7;
 		private Guna.UI.WinForms.GunaLabel gunaLabel14;
 		private Guna.UI.WinForms.GunaPanel gunaPanel8;
-		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel8;
-		private Guna.UI.WinForms.GunaLabel gunaLabel15;
 		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel8;
 		private Guna.UI.WinForms.GunaLabel gunaLabel16;
+		private Guna.UI.WinForms.GunaPanel gunaPanel10;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel10;
+		private Guna.UI.WinForms.GunaLabel gunaLabel19;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel10;
+		private Guna.UI.WinForms.GunaLabel gunaLabel20;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel11;
+		private Guna.UI.WinForms.GunaLabel gunaLabel21;
+		private Guna.UI.WinForms.GunaPanel gunaPanel11;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel8;
+		private Guna.UI.WinForms.GunaLabel gunaLabel15;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel11;
+		private Guna.UI.WinForms.GunaLabel gunaLabel22;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel13;
+		private Guna.UI.WinForms.GunaLabel gunaLabel25;
+		private Guna.UI.WinForms.GunaPanel gunaPanel12;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel12;
+		private Guna.UI.WinForms.GunaLabel gunaLabel23;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel7;
+		private Guna.UI.WinForms.GunaLabel gunaLabel13;
+		private Guna.UI.WinForms.GunaGradient2Panel FriesSortPanel;
+		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton4;
+		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton7;
+		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton8;
+		private Guna.UI.WinForms.GunaGradient2Panel BurgersSortPanel;
+		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton5;
+		private Guna.UI.WinForms.GunaAdvenceTileButton gunaAdvenceTileButton6;
+		private System.Windows.Forms.FlowLayoutPanel DrinksPanel;
+		private Guna.UI.WinForms.GunaPanel gunaPanel13;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel1;
+		private Guna.UI.WinForms.GunaLabel gunaLabel24;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel13;
+		private Guna.UI.WinForms.GunaLabel gunaLabel26;
+		private Guna.UI.WinForms.GunaPanel gunaPanel14;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel12;
+		private Guna.UI.WinForms.GunaLabel gunaLabel27;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel14;
+		private Guna.UI.WinForms.GunaLabel gunaLabel28;
+		private Guna.UI.WinForms.GunaPanel gunaPanel15;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel14;
+		private Guna.UI.WinForms.GunaLabel gunaLabel29;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel15;
+		private Guna.UI.WinForms.GunaLabel gunaLabel30;
+		private Guna.UI.WinForms.GunaPanel gunaPanel16;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel15;
+		private Guna.UI.WinForms.GunaLabel gunaLabel31;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel16;
+		private Guna.UI.WinForms.GunaLabel gunaLabel32;
+		private Guna.UI.WinForms.GunaPanel gunaPanel17;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel16;
+		private Guna.UI.WinForms.GunaLabel gunaLabel33;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel17;
+		private Guna.UI.WinForms.GunaLabel gunaLabel34;
+		private Guna.UI.WinForms.GunaPanel gunaPanel18;
+		private Guna.UI.WinForms.GunaShadowPanel gunaShadowPanel18;
+		private Guna.UI.WinForms.GunaLabel gunaLabel35;
+		private Guna.UI.WinForms.GunaGradient2Panel gunaGradient2Panel17;
+		private Guna.UI.WinForms.GunaLabel gunaLabel36;
 	}
 }
 
