@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Guna2
 {
-	public partial class Form1 : Form
+	public partial class UserControl2 : UserControl
 	{
-		public Form1()
+		public UserControl2()
 		{
 			InitializeComponent();
-		}
-
-		private void Form1_Load(object sender, EventArgs e)
-		{
-
-		}
-
-		private void gunaPictureBox1_Click(object sender, EventArgs e)
-		{
-
 		}
 	}
 }
