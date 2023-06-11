@@ -30,9 +30,9 @@
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UserControl1));
 			this.gunaGradient2Panel1 = new Guna.UI.WinForms.GunaGradient2Panel();
+			this.gunaLabel2 = new Guna.UI.WinForms.GunaLabel();
 			this.gunaShadowPanel1 = new Guna.UI.WinForms.GunaShadowPanel();
 			this.gunaLabel1 = new Guna.UI.WinForms.GunaLabel();
-			this.gunaLabel2 = new Guna.UI.WinForms.GunaLabel();
 			this.gunaGradient2Panel1.SuspendLayout();
 			this.gunaShadowPanel1.SuspendLayout();
 			this.SuspendLayout();
@@ -43,18 +43,29 @@
 			this.gunaGradient2Panel1.Controls.Add(this.gunaLabel2);
 			this.gunaGradient2Panel1.GradientColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(161)))), ((int)(((byte)(88)))));
 			this.gunaGradient2Panel1.GradientColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(103)))), ((int)(((byte)(103)))));
-			this.gunaGradient2Panel1.Location = new System.Drawing.Point(0, 0);
+			this.gunaGradient2Panel1.Location = new System.Drawing.Point(29, 0);
 			this.gunaGradient2Panel1.Name = "gunaGradient2Panel1";
 			this.gunaGradient2Panel1.Radius = 4;
 			this.gunaGradient2Panel1.Size = new System.Drawing.Size(54, 34);
 			this.gunaGradient2Panel1.TabIndex = 0;
+			// 
+			// gunaLabel2
+			// 
+			this.gunaLabel2.AutoSize = true;
+			this.gunaLabel2.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
+			this.gunaLabel2.ForeColor = System.Drawing.Color.White;
+			this.gunaLabel2.Location = new System.Drawing.Point(1, 7);
+			this.gunaLabel2.Name = "gunaLabel2";
+			this.gunaLabel2.Size = new System.Drawing.Size(51, 20);
+			this.gunaLabel2.TabIndex = 0;
+			this.gunaLabel2.Text = "10.95€";
 			// 
 			// gunaShadowPanel1
 			// 
 			this.gunaShadowPanel1.BackColor = System.Drawing.Color.Transparent;
 			this.gunaShadowPanel1.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(150)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
 			this.gunaShadowPanel1.Controls.Add(this.gunaLabel1);
-			this.gunaShadowPanel1.Location = new System.Drawing.Point(3, 68);
+			this.gunaShadowPanel1.Location = new System.Drawing.Point(29, 68);
 			this.gunaShadowPanel1.Name = "gunaShadowPanel1";
 			this.gunaShadowPanel1.ShadowColor = System.Drawing.Color.Transparent;
 			this.gunaShadowPanel1.ShadowShift = 2;
@@ -70,17 +81,6 @@
 			this.gunaLabel1.Size = new System.Drawing.Size(108, 20);
 			this.gunaLabel1.TabIndex = 0;
 			this.gunaLabel1.Text = "Cheese burger";
-			// 
-			// gunaLabel2
-			// 
-			this.gunaLabel2.AutoSize = true;
-			this.gunaLabel2.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
-			this.gunaLabel2.ForeColor = System.Drawing.Color.White;
-			this.gunaLabel2.Location = new System.Drawing.Point(1, 7);
-			this.gunaLabel2.Name = "gunaLabel2";
-			this.gunaLabel2.Size = new System.Drawing.Size(51, 20);
-			this.gunaLabel2.TabIndex = 0;
-			this.gunaLabel2.Text = "10.95€";
 			// 
 			// UserControl1
 			// 

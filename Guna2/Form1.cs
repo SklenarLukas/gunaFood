@@ -26,5 +26,58 @@ namespace Guna2
 		{
 
 		}
+
+		private void userControl11_Load(object sender, EventArgs e)
+		{
+
+		}
+
+		private void userControl12_Load(object sender, EventArgs e)
+		{
+
+		}
+
+		private void gunaAdvenceTileButton2_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void gunaGradientBurgers_Click(object sender, EventArgs e)
+		{
+			BurgerPanel.Visible = true;
+			FriesPanel.Visible = false;
+		}
+
+		private void gunaGradientFries_Click(object sender, EventArgs e)
+		{
+			BurgerPanel.Visible = false;
+			FriesPanel.Visible = true;
+			
+		}
+
+		private void gunaGradientDrinks_Click(object sender, EventArgs e)
+		{
+			
+		}
+
+		private void gunaGradientSalads_Click(object sender, EventArgs e)
+		{
+			
+		}
+
+		private void userControl13_Load(object sender, EventArgs e)
+		{
+
+		}
+
+		private void gunaLabel12_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void gunaLabel18_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
