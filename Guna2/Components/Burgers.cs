@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Guna2
+namespace Guna2.Components
 {
-	public partial class UserControl1 : UserControl
+	public partial class Burgers : Form
 	{
-		public UserControl1()
+		public Burgers()
 		{
 			InitializeComponent();
 		}
